@@ -1,0 +1,24 @@
+form
+{
+    text-align: center;
+
+}
+input[type="text"]
+{
+    padding: 05px;
+    font-size: 20px;
+    margin-top: 30px;
+    width: 15%;  
+  
+}
+input[type=submit]
+{
+   
+    margin-top: 20px;
+    background-color: palevioletred;
+}
+label
+{
+    width: 100px;
+    font-size: larger;
+}
